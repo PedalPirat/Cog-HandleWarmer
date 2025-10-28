@@ -1,10 +1,12 @@
 # HandleWarmer
-Heated handlebar tape for the Vieri Gravel rides in beautiful english weather
+Heated handlebars for the [Vieri](https://www.instagram.com/nicvieri/) Gravel rides in beautiful english weather
 
 ## Overview
-The idea is simple: Put a heating wire (tape) under a handlebar tape and add Power and booom - your handlebar tape will heat up.
+The idea is simple: Put a heating wire (tape) under a handlebar tape and add Power and booom - your handlebar tape will heat up
 
-The challenge: make sure it doesn't burn and also somehow monitor the temperatur (maybe).
+The challenge: make sure it doesn't burn and monitor the temperatur
+
+Make it extra hard: detect where the hand is positioned and only heat where it is necessary to save energy
 
 ## Functions
 ### Heating
